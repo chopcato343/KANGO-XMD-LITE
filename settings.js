@@ -1,10 +1,10 @@
 //-------------------[ BOT SETTINGS ]------------------// 
 
-// @project_name : KANGO-XMD 
-// @author : Hector 
+// @project_name : Juvi-XMD 
+// @author : Juvi 
 // @telegram : http://t.me/official_kango
-// @github : OfficialKango
-// @whatsapp : +233509977126
+// @github : Officialjuvi
+// @whatsapp : +8765159077
 
 //----------------------[ KANGO-XMD ]----------------------//
 
@@ -20,11 +20,11 @@ global.SESSION_ID = process.env.SESSION_ID || ''
 
 //--------------------[ BOT NAME ]----------------------//
 
-global.botname = process.env.BOT_NAME || 'KANGO-XMD' 
+global.botname = process.env.BOT_NAME || 'juvi-XMD' 
 
 //-----------------[ OWNER NUMBER ]------------------//
 
-global.ownernumber = process.env.OWNER_NUMBER || '233509977126' 
+global.ownernumber = process.env.OWNER_NUMBER || '8765159077' 
 
 //--------------------[ SUDO ]--------------------------//
 
