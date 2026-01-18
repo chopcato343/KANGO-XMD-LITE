@@ -1,7 +1,7 @@
 {
-  "name": "KANGO-XMD",
+  "name": "Juvi-XMD",
   "version": "3.0.0",
-  "description": "The best Whatsapp bot im Ghana",
+  "description": "The best Whatsapp bot im Jamaica",
   "main": "index.js",
   "engines": {
     "node": ">= 20.x",
